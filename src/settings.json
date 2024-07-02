@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Meetup 2025 is happening soon! Don’t miss out.",
+        "linkText": "Register Now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world where innovation meets creativity. Join our community, learn from expert minds, and elevate your tech game.",
+        "title": "Yay: Share and Inspire with Technology"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into a world where innovation meets creativity. Join our community, learn from expert minds, and elevate your tech game.",
+        "title": "Yay: Share and Inspire with Technology"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into a world where innovation meets creativity. Join our community, learn from expert minds, and elevate your tech game.",
+        "title": "Yay: Share and Inspire with Technology"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world where innovation meets creativity. Join our community, learn from expert minds, and elevate your tech game.",
+        "title": "Yay: Share and Inspire with Technology"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into a world where innovation meets creativity. Join our community, learn from expert minds, and elevate your tech game.",
+        "title": "Yay: Share and Inspire with Technology"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Dive into a world where innovation meets creativity. Join our community, learn from expert minds, and elevate your tech game.",
+        "title": "Yay: Share and Inspire with Technology"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world where innovation meets creativity. Join our community, learn from expert minds, and elevate your tech game.",
+        "title": "Yay: Share and Inspire with Technology"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay: Share and Inspire with Technology",
+  "subtitle": "Dive into a world where innovation meets creativity. Join our community, learn from expert minds, and elevate your tech game."
+}
